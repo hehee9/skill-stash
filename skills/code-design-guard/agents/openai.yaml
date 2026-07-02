@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Design Guard"
+  short_description: "Plan code changes before defensive complexity grows"
+  default_prompt: "Use $code-design-guard before making this code change."
